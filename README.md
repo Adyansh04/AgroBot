@@ -85,6 +85,9 @@ The system detects cotton bolls using a depth-camera RGB stream, aligns and appr
 - [Demo Video 2](docs/media/demo_2.mp4)
 - [Demo Video 3](docs/media/demo_3.mp4)
 
+View playable demos: https://adyansh04.github.io/AgroBot/demo.html
+
+
 ## Dependencies and Prerequisites
 
 | Layer | Required Components |
