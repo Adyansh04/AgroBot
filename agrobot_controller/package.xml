@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Forward and inverse kinematics for X drive Based 4 wheel Omni wheel robot
   </description>
-  <maintainer email="adyansh@sakarrobotics.com">Adyansh Gupta</maintainer>
+  <maintainer email="gupta.adyansh@gmail.com">Adyansh Gupta</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake_python</buildtool_depend>
